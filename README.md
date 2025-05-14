@@ -165,5 +165,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - kottamgari.m@northeastern.edu
-Project Link: [https://github.com/Manishkottamgari7/AI_Chatbot_Assesment]
+Manish Kottamgari - kottamgari.m@northeastern.edu
